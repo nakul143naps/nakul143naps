@@ -1,57 +1,27 @@
-<div align="center">
+# 💫 About Me:
+👋 About Me<br><br>I am an Information Technology undergraduate (2026) who enjoys building practical applications across AI, full-stack development, and backend systems. Recently, I have been focused on agentic workflows, research tools, and retrieval-augmented generation (RAG).<br><br>🔭 I'm currently working on<br><br>AI-powered applications that make research and knowledge more accessible, including web-based research workflows and document question-answering systems.<br><br>🚀 Featured Projects<br><br>🔎 <a href="https://github.com/nakul143naps/researchmind-2.0">ResearchMind 2.0</a> — A React + FastAPI research workspace that searches the web and creates structured, cited reports with AI-generated critique. <a href="https://researchmind-web.onrender.com/">Live demo</a>.<br><br>📚 <a href="https://github.com/nakul143naps/AMCH-RAG">AMCH-RAG</a> — An agentic document Q&A system using hybrid dense + BM25 retrieval, Qdrant, reranking, query correction, and source-grounded answers.<br><br>🤝 I'm looking to collaborate on<br><br>Open-source or academic projects related to applied AI, RAG, backend systems, and full-stack development.<br><br>🌱 I'm currently learning<br><br>Agentic AI patterns, retrieval and evaluation techniques, scalable API design, and production-minded application development.<br><br>💬 Ask me about<br><br>Python, Java, React, FastAPI, AI research workflows, and retrieval-augmented generation.<br><br>⚡ Fun Facts<br><br>I enjoy turning college projects into useful real-world applications<br><br>I like clean interfaces backed by thoughtful engineering<br><br>Debugging gives me more satisfaction than writing new code 😄<br><br>I believe consistency beats talent in learning tech
 
-# Hi, I'm Nakul 👋
 
-### Information Technology developer building AI-powered research and knowledge tools
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahcool_naps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-kothlapur-0900ab291) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Nakul Kothlapur) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nakul Kothlapur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulnaps095@gmail.com)
 
-I enjoy turning complex ideas into practical products, from evidence-backed research workflows to document-grounded question answering.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nakul143naps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nakul143naps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nakul143naps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[LinkedIn](https://linkedin.com/in/nakul-kothlapur-0900ab291) · [Email](mailto:nakulnaps095@gmail.com)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nakul143naps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## Featured projects
-
-### [ResearchMind 2.0](https://github.com/nakul143naps/researchmind-2.0) · [Live app](https://researchmind-web.onrender.com/)
-
-An AI research workspace that turns a question into a structured, cited report.
-
-- Searches the web with Tavily, then drafts and critiques an evidence-grounded report with OpenRouter.
-- Built with React, TypeScript, Vite, and FastAPI.
-- Includes source cards, editable Markdown, browser-local history, and light/dark themes.
-- Provider keys are supplied for each request and are not saved in browser history.
-
-### [AMCH-RAG](https://github.com/nakul143naps/AMCH-RAG)
-
-An agentic document Q&A system designed to improve retrieval quality and keep answers grounded in sources.
-
-- Combines dense and BM25 sparse retrieval with Qdrant reciprocal-rank fusion, then reranks results with FlashRank.
-- Uses LangGraph for relevance grading, bounded query rewriting, groundedness checks, and optional web fallback.
-- Built with FastAPI, React, Qdrant, and configurable Gemini, Groq, and OpenRouter providers.
-- Supports ingestion of common document formats and returns answers with citations.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nakul143naps&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nakul143naps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Areas I enjoy:** applied AI, retrieval-augmented generation, backend development, and thoughtful full-stack experiences.
-
-## GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nakul143naps&show_icons=true&hide_border=true&theme=transparent" alt="Nakul's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul143naps&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
