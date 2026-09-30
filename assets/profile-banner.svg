@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Nakul Kothlapur — AI, RAG and full-stack development</title>
+  <desc id="description">A custom dark gradient banner with a connected-node illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10172a"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#102f3d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#background)"/>
+  <circle cx="1010" cy="160" r="210" fill="url(#glow)"/>
+  <path d="M0 276C200 232 325 348 535 300s335-65 665-10v50H0z" fill="#020617" opacity=".22"/>
+  <g fill="#cbd5e1" opacity=".58">
+    <circle cx="702" cy="54" r="2"/><circle cx="756" cy="100" r="1.5"/>
+    <circle cx="1110" cy="62" r="2"/><circle cx="1154" cy="245" r="1.5"/>
+    <circle cx="654" cy="268" r="1.5"/><circle cx="1080" cy="297" r="2"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="76" y="76" fill="#a5f3fc" font-size="15" font-weight="700" letter-spacing="3">INFORMATION TECHNOLOGY • 2026</text>
+    <text x="72" y="151" fill="#f8fafc" font-size="58" font-weight="700" letter-spacing="-1.5">Nakul Kothlapur</text>
+    <text x="76" y="195" fill="#cbd5e1" font-size="21">Building thoughtful AI, research &amp; full-stack applications.</text>
+    <g font-size="13" font-weight="700" letter-spacing=".8">
+      <rect x="76" y="229" width="113" height="34" rx="17" fill="#0f766e" opacity=".72"/>
+      <text x="132" y="251" fill="#ccfbf1" text-anchor="middle">AI &amp; RAG</text>
+      <rect x="200" y="229" width="144" height="34" rx="17" fill="#3730a3" opacity=".72"/>
+      <text x="272" y="251" fill="#e0e7ff" text-anchor="middle">FULL-STACK</text>
+      <rect x="355" y="229" width="150" height="34" rx="17" fill="#334155" opacity=".82"/>
+      <text x="430" y="251" fill="#e2e8f0" text-anchor="middle">JAVA &amp; PYTHON</text>
+    </g>
+  </g>
+  <g transform="translate(940 166)">
+    <circle r="112" fill="none" stroke="#94a3b8" stroke-opacity=".16" stroke-width="1"/>
+    <circle r="83" fill="none" stroke="#67e8f9" stroke-opacity=".30" stroke-width="1.5" stroke-dasharray="3 9"/>
+    <path d="M-72-43 0-82 72-43 72 43 0 82-72 43zM-72-43 0 0 72-43M0 0v82M-72 43 0 0 72 43" fill="none" stroke="url(#accent)" stroke-opacity=".64" stroke-width="2"/>
+    <rect x="-49" y="-36" width="98" height="72" rx="18" fill="#0f172a" stroke="#67e8f9" stroke-opacity=".75" stroke-width="1.5"/>
+    <text y="9" fill="#a5f3fc" font-family="Consolas, monospace" font-size="29" text-anchor="middle">{ }</text>
+    <g fill="#67e8f9" stroke="#0f172a" stroke-width="4">
+      <circle cx="-72" cy="-43" r="8"/><circle cx="0" cy="-82" r="8"/>
+      <circle cx="72" cy="-43" r="8"/><circle cx="72" cy="43" r="8"/>
+      <circle cx="0" cy="82" r="8"/><circle cx="-72" cy="43" r="8"/>
+    </g>
+  </g>
+</svg>
